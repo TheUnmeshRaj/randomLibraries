@@ -1,0 +1,4 @@
+Libraries Used:
+1. pyautogui
+2. selenium
+3. pynput
